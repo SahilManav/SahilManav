@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sahil Manav</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fin.pinterest.com%2Fpin%2Fdbz--650910952416671252%2F&psig=AOvVaw1jt4UKceT46MB92ADQU76v&ust=1740814562024000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCNi04N_t5YsDFQAAAAAdAAAAABAE")
+(img align="right" alt="sahilmanav" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDExbjBqZXF4ZzB4ejF5aG5zc3RhbzkycHhlNTFiN2JrdXY5Z2RjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/109epNnxnLTMha/giphy.gif")
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahilmanav" alt="sahilmanav" /></a> </p>
 
