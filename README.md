@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Manav</h1>
 <h3 align="center">A passionate MERN Stack Developer from India</h3>
-<img align="right" alt="Goku" width="400" src="https://media1.giphy.com/media/109epNnxnLTMha/giphy.gif?cid=6c09b9520vdsqrvvpdcfkmaojx8cxtbv7tsyvf2ve2l7zmsb&ep=v1_gifs_search&rid=giphy.gif&ct=g">
+
+<img align="right" alt="Profile Banner" width="400" src="https://backiee.com/static/wallpapers/1920x1080/386745.jpg">
 
 - ✅ I’ve recently completed my **Real Estate Website (PropLux)**  
 - 🌱 Currently learning **WordPress** and **C#**  
